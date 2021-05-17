@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey There 👋
 
-<!--
-**EMACC99/EMACC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+* ### 3rd Year Data Science/ Computer Science strudent at ENES Unidad Morelia UNAM Mexico
+* ### I'm interested in scientific computing and data analysis
+* ### Because of my liking in manga, I'm making a python wrapper for the mangadex API V5
+* ### EN : OK / ES : OK / JA : Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=EMACC99&theme=dracula&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMACC99&layout=compact&theme=dracula&show_icons=true)](https://github.com/EMACC99)
+
+### 
