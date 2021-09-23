@@ -2,7 +2,7 @@
 
 ## About me:
 
-* ### 3rd Year Data Science/ Computer Science student at ENES Unidad Morelia UNAM Mexico
+* ### 4rth Year Data Science/ Computer Science student at ENES Unidad Morelia UNAM Mexico
 * ### I'm interested in scientific computing and data analysis
 * ### Because of my liking in manga, I'm making a python wrapper for the mangadex API V5
 * ### EN : OK / ES : OK / JA : Currently learning
