@@ -2,10 +2,10 @@
 
 ## About me:
 
-* ### 4rth Year Data Science/ Computer Science student at ENES Unidad Morelia UNAM Mexico
+* ### Data Science/ Computer Science Graduate at ENES Unidad Morelia UNAM Mexico
 * ### I'm interested in scientific computing and data analysis
-* ### Because of my liking in manga, I'm making a python wrapper for the mangadex API V5
-* ### EN : OK / ES : OK / JA : Currently learning
+* ### Because of my liking for manga, I'm making a Python wrapper for the Mangadex API V5
+* ### EN: OK / ES: OK / JA: Currently learning
 
 ## My stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=EMACC99&theme=dracula&show_icons=true)
