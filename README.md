@@ -2,7 +2,7 @@
 
 ## About me:
 
-* ### Data Science/ Computer Science Graduate at ENES Unidad Morelia UNAM Mexico
+* ### Data Science/ Computer Science Graduate from ENES Unidad Morelia UNAM Mexico
 * ### I'm interested in scientific computing and data analysis
 * ### Because of my liking for manga, I'm making a Python wrapper for the Mangadex API V5
 * ### EN: OK / ES: OK / JA: Currently learning
